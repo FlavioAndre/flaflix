@@ -1,6 +1,6 @@
 # Flaflix
 
-[![licence mit](https://img.shields.io/badge/licence-MIT-blue.svg)](https://github.com/imersao-alura/Flaflix/blob/master/LICENSE)
+[![licence mit](https://img.shields.io/badge/licence-MIT-blue.svg)](https://github.com/FlavioAndre/flaflix/blob/master/LICENSE)
 
 <p align="center">
   <img alt="Logo do projeto" width="150px" src="https://www.alura.com.br/assets/img/imersoes/react/imersao-react-logo.1594044142.svg" />
